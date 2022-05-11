@@ -1,0 +1,10 @@
+{
+  "scripts": {
+  "compile": "node-gyp rebuild",
+  "start": "node index.js"
+},
+  "dependencies": {
+    "nan": "^2.15.0",
+    "node-gyp": "^9.0.0"
+  }
+}
